@@ -1,0 +1,19 @@
+/* <length> values */
+body {
+  font-size: 16px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Body Font */
+p {
+  line-height: 1.5;
+}
+
+/* Image size*/
+img {
+  max-height: 400px;
+}
+
+.my-text {
+  color: pink;
+}
